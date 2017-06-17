@@ -1,4 +1,0 @@
-[submodule "caffe-fast-rcnn"]
-	path = caffe-fast-rcnn
-	url = https://github.com/kinsolresearch/caffe.git
-	branch = faster-rcnn-upstream-33f2445
